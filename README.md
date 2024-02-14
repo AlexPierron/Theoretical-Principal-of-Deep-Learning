@@ -20,10 +20,9 @@ Finally, the document concludes by summarizing the main contributions of the pap
 ### Keywords: supervised learning, neural networks, generalization, fat-shattering dimension, VC dimension, error rate, theoretical bounds, numerical simulations
 
 ## Prerequisites:
-Optimization, Statistics and Probabilities
+Optimization, Statistics and Probabilities \
 Basic knowledge of machine learning
 Familiarity with neural networks
-Understanding of statistical concepts such as probability and error rate
 
 ## How to use this document:
 Codes used to produce our simulations is entirely available in this repo. The code is supposed to run directly when you run the notebook properly.
