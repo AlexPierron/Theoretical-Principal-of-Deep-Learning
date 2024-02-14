@@ -21,7 +21,7 @@ Finally, the document concludes by summarizing the main contributions of the pap
 
 ## Prerequisites:
 Optimization, Statistics and Probabilities \
-Basic knowledge of machine learning
+Basic knowledge of machine learning \
 Familiarity with neural networks
 
 ## How to use this document:
