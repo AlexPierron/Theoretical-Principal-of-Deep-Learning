@@ -3,7 +3,7 @@ Analysis of a research paper: "The sample complexity of pattern classification w
 ## Authors: Alex Pierron & Matisse Roche
   This work is part of our Master II "Mathematics and Artificial Intelligence" done at Paris-Saclay University and CentraleSupélec.
 
-### Date: February 14, 2024
+### Date: February 16, 2024
 
 ## Abstract:
 
