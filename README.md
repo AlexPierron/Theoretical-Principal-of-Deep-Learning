@@ -19,6 +19,15 @@ Finally, the document concludes by summarizing the main contributions of the pap
 
 ### Keywords: supervised learning, neural networks, generalization, fat-shattering dimension, VC dimension, error rate, theoretical bounds, numerical simulations
 
+
+## Python modules:
+numpy, scipy, matplotlib, seaborn, torch, torchvision, pandas, tqdm, pillow-simd (optionnal)
+```
+conda create -n myenv python=3.9
+conda activate myenv
+conda install numpy scipy matplotlib seaborn pytorch torchvision scikit-learn tensorboard opencv pandas tqdm pillow-simd
+```
+
 ## Prerequisites:
 Optimization, Statistics and Probabilities \
 Basic knowledge of machine learning \
