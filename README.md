@@ -1,4 +1,4 @@
-# Title: Analysis of a research paper: "The sample complexity of pattern classification with neural networks: the size of the weights is more important than the size of the network" by Peter Bartlett (1997)
+Analysis of a research paper: "The sample complexity of pattern classification with neural networks: the size of the weights is more important than the size of the network" by Peter Bartlett (1997)
 
 ## Authors: Alex Pierron & Matisse Roche
   This work is part of our Master II "Mathematics and Artificial Intelligence" done at Paris-Saclay University and CentraleSupélec.
