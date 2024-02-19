@@ -33,11 +33,8 @@ Optimization, Statistics and Probabilities \
 Basic knowledge of machine learning \
 Familiarity with neural networks
 
-## How to use this document:
-Codes used to produce our simulations is entirely available in this repo. The code is supposed to run directly when you run the notebook properly.
+## How to use this repo:
+Codes used to produce our simulations is entirely available in this repo. The code is supposed to run directly when you run the notebook properly. Do not run the notebook if you just want to see the results, the complete computation of the notebook takes several hours.
 
 This document can be used as a reference for understanding  and illustrating the theoretical foundations of neural network generalization given in the article treated. It can also be used for further research on this topic.
 
-### License:
-
-This document is licensed under the MIT License.
